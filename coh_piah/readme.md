@@ -25,7 +25,7 @@ A partir da assinatura conhecida de um portador de COH-PIAH, seu programa dever�
 * Tamanho médio de frase é a soma do número de caracteres em cada frase dividida pelo número de frases no texto (os caracteres que separam uma frase da outra não devem ser contabilizados como parte da frase).
 Após calcular esses valores para cada texto, você deve compará-los com a assinatura fornecida para os infectados por COH-PIAH. O grau de similaridade entre dois textos, aa e bb, é dado pela fórmula:
 
- 
+ ![](github_coh_piah.jpg)
 
 Onde:
 
